@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nuke.GlobalTool": {
+      "commandName": "Project",
+      "commandLineArgs": "generate"
+    }
+  }
+}
